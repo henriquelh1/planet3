@@ -1,3 +1,4 @@
 acess.log
 *.log
 folder/
+.DS_Store
