@@ -1,4 +1,9 @@
 acess.log
 *.log
 folder/
+<<<<<<< HEAD
 .DS_Store
+=======
+.DS_Store
+
+>>>>>>> 389cd2c (assigned3)
